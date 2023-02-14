@@ -63,6 +63,7 @@ namespace CamParam
             }
             else
             {
+
                 System.Console.Error.WriteLine("Invalid device index: " + deviceIndex);
                 return;
             }

@@ -1,0 +1,1 @@
+start "" /D "C:\Dev\Personal\CamParamSharp\bin\Debug\netcoreapp3.1\win-x64" CamParam.exe device 1 zoom 193 pan -1
